@@ -1,0 +1,25 @@
+2025-10-14 12:56:30,777 - INFO - Ingesting begin_inventory.csv in db
+2025-10-14 12:56:35,899 - INFO - Ingesting end_inventory.csv in db
+2025-10-14 12:56:51,787 - INFO - Ingesting purchases.csv in db
+2025-10-14 12:58:12,145 - INFO - Ingesting purchase_prices.csv in db
+2025-10-14 12:58:51,912 - INFO - Ingesting sales.csv in db
+2025-10-14 13:09:09,089 - INFO - Ingesting vendor_invoice.csv in db
+2025-10-14 13:09:09,380 - INFO - --------------Ingestion Complete------------
+2025-10-14 13:09:09,380 - INFO - 
+Total Time Taken: 12.65383176803589 minutes
+2025-10-14 22:38:01,077 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-14 22:38:01,089 - WARNING - No such comm: 1e99a123-5829-4bd4-a1ba-55130ce27903
+2025-10-14 22:38:01,089 - DEBUG - Current comms: []
+2025-10-18 14:52:49,954 - INFO - Ingesting begin_inventory.csv in db
+2025-10-18 14:52:54,342 - INFO - Ingesting end_inventory.csv in db
+2025-10-18 14:53:07,680 - INFO - Ingesting purchases.csv in db
+2025-10-18 14:54:26,172 - INFO - Ingesting purchase_prices.csv in db
+2025-10-18 14:54:55,844 - INFO - Ingesting sales.csv in db
+2025-10-18 15:03:35,481 - INFO - Ingesting vendor_invoice.csv in db
+2025-10-18 15:03:35,724 - INFO - --------------Ingestion Complete------------
+2025-10-18 15:03:35,725 - INFO - 
+Total Time Taken: 10.770473313331603 minutes
+2025-10-18 15:17:17,227 - DEBUG - handle_msg[4ccbbbd6-c4c1-44dd-96c1-080f6c8c9ea7]({'header': {'date': datetime.datetime(2025, 10, 18, 9, 47, 17, 220000, tzinfo=tzutc()), 'msg_id': '7053e473-42dc-42ab-8ba3-0c860ae027db', 'msg_type': 'comm_msg', 'session': '973335e4-aa14-4405-9e9e-bd3a22e8158b', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': '7053e473-42dc-42ab-8ba3-0c860ae027db', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '4ccbbbd6-c4c1-44dd-96c1-080f6c8c9ea7', 'data': {'method': 'request_states'}}, 'buffers': []})
+2025-10-18 15:17:17,282 - DEBUG - handle_close[4ccbbbd6-c4c1-44dd-96c1-080f6c8c9ea7]({'header': {'date': datetime.datetime(2025, 10, 18, 9, 47, 17, 275000, tzinfo=tzutc()), 'msg_id': 'f8bf73a4-20a6-4a24-92a0-8d0afb3b93a9', 'msg_type': 'comm_close', 'session': '973335e4-aa14-4405-9e9e-bd3a22e8158b', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': 'f8bf73a4-20a6-4a24-92a0-8d0afb3b93a9', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '4ccbbbd6-c4c1-44dd-96c1-080f6c8c9ea7', 'data': {}}, 'buffers': []})
+2025-10-18 19:57:45,948 - DEBUG - handle_msg[601f950f-64a4-44b1-b45b-03572c18c471]({'header': {'date': datetime.datetime(2025, 10, 18, 14, 27, 45, 940000, tzinfo=tzutc()), 'msg_id': '446cc9a9-232d-4480-992d-7c6b28e23905', 'msg_type': 'comm_msg', 'session': '973335e4-aa14-4405-9e9e-bd3a22e8158b', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': '446cc9a9-232d-4480-992d-7c6b28e23905', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '601f950f-64a4-44b1-b45b-03572c18c471', 'data': {'method': 'request_states'}}, 'buffers': []})
+2025-10-18 19:57:45,981 - DEBUG - handle_close[601f950f-64a4-44b1-b45b-03572c18c471]({'header': {'date': datetime.datetime(2025, 10, 18, 14, 27, 45, 978000, tzinfo=tzutc()), 'msg_id': '2f5ec818-e3fe-48d3-a87e-1ff07e8e3d04', 'msg_type': 'comm_close', 'session': '973335e4-aa14-4405-9e9e-bd3a22e8158b', 'username': '', 'subshell_id': None, 'version': '5.2'}, 'msg_id': '2f5ec818-e3fe-48d3-a87e-1ff07e8e3d04', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '601f950f-64a4-44b1-b45b-03572c18c471', 'data': {}}, 'buffers': []})
